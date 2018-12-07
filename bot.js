@@ -74,9 +74,9 @@ client.on("message", message => {
 });
 
 
-var adminprefix = "$";
+var adminprefix = "&";
 
-const developers = ["272808689688248320","323888904602124299"]
+const developers = ["400250690284421120","323888904602124299"]
 
 client.on('message', message => {
 
